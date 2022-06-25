@@ -1,5 +1,6 @@
 local Players = game:GetService('Players')
 local Player = game:GetService('Players').LocalPlayer
+
 enabled = State
 spyOnMyself = true
 public = false
